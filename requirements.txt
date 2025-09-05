@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+scikit-learn
+umap-learn
+matplotlib
+plotly
+wordcloud
+pandas
+captum
