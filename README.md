@@ -64,13 +64,13 @@ Install dependencies via:
 pip install -r requirements.txt
 
 ```
-##How to run
-###Clone the repository
+## How to run
+### Clone the repository
 ```bash
 git clone <your-repo-url>
 cd Sentiment_analysis
 ```
-###Create a virtual environment (recommended):
+### Create a virtual environment (recommended):
 
 ```bash
 
@@ -80,7 +80,7 @@ source venv/bin/activate   # Linux/macOS
 venv\Scripts\activate      # Windows PowerShell
 
 ```
-###Run the Streamlit app:
+### Run the Streamlit app:
 ```bach
 
 streamlit run streamlit_sentiment_app.py
